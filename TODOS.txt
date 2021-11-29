@@ -1,0 +1,13 @@
+1. Creating							|    Zogadi - Try Catch unda viswavlo
+	1. Should Be able to choose elements on select dropdown |
+	2. Should Be able to choose width and height 		|
+================================================================|
+2. Edit								|   
+	1. Resize						| 
+	2. Color Change						|
+	3. Class/Id name_change					|
+	4. Dragable						|
+================================================================|
+3. Prewie
+	1. HTML/CSS unda chandes
+	2. Save unda qondes
